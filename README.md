@@ -10,13 +10,13 @@ https://www.sitepoint.com/github-profile-readme/
 <div id="header" align="center">
   
   <div id="badges">
-    <a href= "https://www.youtube.com/@yisus_christ/">
+    <a href= "https://www.linkedin.com/in/alejandro-gonzalez-momblan/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href= "https://twitter.com/Yisus_Christ_98/">
+    <a href= "https://www.youtube.com/@yisus_christ/">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href= "https://www.linkedin.com/in/alejandro-gonzalez-momblan/">
+    <a href= "https://twitter.com/Yisus_Christ_98/">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
