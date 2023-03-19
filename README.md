@@ -42,9 +42,11 @@ https://www.sitepoint.com/github-profile-readme/
 
   ### :fire: My Stats :
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YisusChrist)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YisusChrist&theme=tokyonight)](https://git.io/streak-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YisusChrist&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=YisusChrist&count_private=true&theme=tokyonight&showicons=true)]()
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YisusChrist&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
   
  </div>
