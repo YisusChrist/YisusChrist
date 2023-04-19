@@ -25,7 +25,11 @@ https://www.sitepoint.com/github-profile-readme/
 
   ---
   
-  ### :hammer_and_wrench: Languages and Tools :
+  ### :hammer_and_wrench: Languages and Tools
+  
+  [![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,bash,c,css,docker,firebase,git,heroku,html,java,javascript,linux,mongodb,mysql,nodejs,php,postgresql,python,vscode&theme=light&perline=10)](https://skillicons.dev)
+
+  <!---
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;      
@@ -45,11 +49,11 @@ https://www.sitepoint.com/github-profile-readme/
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>&nbsp;
 
   </div>
-
+  --->
   
   ---
 
-  ### :fire: My Stats :
+  ### :fire: My Stats
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YisusChrist&theme=tokyonight)](https://git.io/streak-stats)
   
@@ -57,15 +61,30 @@ https://www.sitepoint.com/github-profile-readme/
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YisusChrist&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-  
- </div>
+  ---
 
+ <div>
 
-<div align="center">
-
-   ## 🎧 Spotify Playing
+  ### 🎧 Spotify Playing
   
   <!-- https://github.com/kittinan/spotify-github-profile -->
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21is3oqsixn4kyq3g2pkj7jsq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21is3oqsixn4kyq3g2pkj7jsq&redirect=true)
 
+ </div>
+ 
+ ---
+ 
+  <div align="center">
+
+  ### 📈 Github stats
+
+  <!-- https://github.com/marketplace/actions/github-profile-3d-contrib -->
+  <a href="https://github.com/yoshi389111/github-profile-3d-contrib"><img alt="Yisus Christ's GitHub Profile 3D Contrib"
+      src="https://raw.githubusercontent.com/YisusChrist/YisusChrist/main/profile-3d-contrib/profile-night-green.svg" /></a>
+
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yisus Christ's Activity Graph"
+      src="https://github-readme-activity-graph.cyclic.app/graph?username=yisuschrist&bg_color=00000f&color=70a5fd&line=38bdae&point=FFFFFF&hide_border=true" /></a>
+  </div>
+  
 </div>
