@@ -72,6 +72,7 @@ https://www.sitepoint.com/github-profile-readme/
   ---
 
   ### :fire: My Stats
+  <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YisusChrist&theme=tokyonight)](https://git.io/streak-stats)
 
