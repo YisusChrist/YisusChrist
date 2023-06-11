@@ -100,7 +100,7 @@ https://www.sitepoint.com/github-profile-readme/
 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yisus Christ's Activity Graph"
-  src="https://github-readme-activity-graph.cyclic.app/graph?username=yisuschrist&bg_color=00000f&color=70a5fd&line=38bdae&point=FFFFFF&hide_border=true" /></a>
+  src="https://github-readme-activity-graph.vercel.app/graph?username=yisuschrist&bg_color=00000f&color=70a5fd&line=38bdae&point=FFFFFF&hide_border=true" /></a>
   </div>
   
 </div>
