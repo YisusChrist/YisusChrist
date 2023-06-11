@@ -8,6 +8,14 @@ https://www.sitepoint.com/github-profile-readme/
 --->
 
 <div id="header" align="center">
+  
+  <!--
+  <img src="https://komarev.com/ghpvc/?username=YisusChrist&style=flat-square&color=blue" alt="" />
+  -->
+  <!-- https://github.com/journey-ad/Moe-Counter -->
+  <img src="https://count.getloli.com/get/@:yisuschrist?theme=moebooru" alt="" />
+  
+  <br>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/alejandro-gonzalez-momblan/">
@@ -23,9 +31,7 @@ https://www.sitepoint.com/github-profile-readme/
         alt="Twitter Badge" />
     </a>
   </div>
-
-  <img src="https://komarev.com/ghpvc/?username=YisusChrist&style=flat-square&color=blue" alt="" />
-
+  
   ---
   
   ### :hammer_and_wrench: Languages and Tools
