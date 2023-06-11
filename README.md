@@ -30,7 +30,7 @@ https://www.sitepoint.com/github-profile-readme/
   
   ### :hammer_and_wrench: Languages and Tools
   
-  [![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,bash,c,css,docker,firebase,git,heroku,html,java,javascript,linux,mongodb,mysql,nodejs,php,postgresql,python,vscode&theme=light&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,bash,c,css,docker,firebase,git,heroku,html,java,javascript,kotlin,linux,mongodb,mysql,nodejs,postgresql,python,vscode&theme=light&perline=10)](https://skillicons.dev)
 
   <!---
   <div>
