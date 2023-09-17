@@ -82,7 +82,7 @@ https://www.sitepoint.com/github-profile-readme/
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YisusChrist&theme=tokyonight)](https://git.io/streak-stats)
 
-  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=YisusChrist&count_private=true&theme=tokyonight&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=YisusChrist&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YisusChrist&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
