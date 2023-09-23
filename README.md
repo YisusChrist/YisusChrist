@@ -84,7 +84,7 @@ https://www.sitepoint.com/github-profile-readme/
 
   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=YisusChrist&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YisusChrist&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YisusChrist&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
   ---
 
@@ -107,6 +107,10 @@ https://www.sitepoint.com/github-profile-readme/
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yisus Christ's Activity Graph"
   src="https://github-readme-activity-graph.vercel.app/graph?username=yisuschrist&bg_color=00000f&color=70a5fd&line=38bdae&point=FFFFFF&hide_border=true" /></a>
+  
+  <!-- https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
+  <a href="https://github.com/Platane/snk">
+  <img src="https://raw.githubusercontent.com/YisusChrist/YisusChrist/output/snake.svg" alt="Snake animation" />
   </div>
   
 </div>
