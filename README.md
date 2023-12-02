@@ -18,15 +18,19 @@ https://www.sitepoint.com/github-profile-readme/
   <br>
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/alejandro-gonzalez-momblan/">
+    <a href="https://dev.to/yisuschrist">
+      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
+        alt="Dev.To Badge" />
+    </a>
+    <a href="https://www.linkedin.com/in/alejandro-gonzalez-momblan">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
         alt="LinkedIn Badge" />
     </a>
-    <a href="https://www.youtube.com/@yisus_christ/">
+    <a href="https://www.youtube.com/@yisus_christ">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"
         alt="Youtube Badge" />
     </a>
-    <a href="https://x.com/Yisus_Christ_98/">
+    <a href="https://x.com/Yisus_Christ_98">
       <img src="https://img.shields.io/badge/x-black?style=for-the-badge&logo=x&logoColor=white"
         alt="X Badge" />
     </a>
@@ -35,8 +39,12 @@ https://www.sitepoint.com/github-profile-readme/
   <br>
   
   <div id="donations">
-    <a href='https://ko-fi.com/yisuschrist' target='_blank'><img height='36' src='https://storage.ko-fi.com/cdn/kofi3.png' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-    <a href="https://www.buymeacoffee.com/YisusFuckingChrist" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height='36' width='141'></a>
+    <a href='https://ko-fi.com/yisuschrist' target='_blank'>
+      <img height='36' src='https://storage.ko-fi.com/cdn/kofi3.png' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+    </a>
+    <a href="https://www.buymeacoffee.com/YisusFuckingChrist" target="_blank">
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height='36' width='141' />
+    </a>
   </div> 
 
   ---
