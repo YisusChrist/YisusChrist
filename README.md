@@ -26,54 +26,24 @@ https://www.sitepoint.com/github-profile-readme/
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"
         alt="Youtube Badge" />
     </a>
-    <a href="https://twitter.com/Yisus_Christ_98/">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"
-        alt="Twitter Badge" />
+    <a href="https://x.com/Yisus_Christ_98/">
+      <img src="https://img.shields.io/badge/x-black?style=for-the-badge&logo=x&logoColor=white"
+        alt="X Badge" />
     </a>
   </div>
+
+  <br>
   
+  <div id="donations">
+    <a href='https://ko-fi.com/yisuschrist' target='_blank'><img height='36' src='https://storage.ko-fi.com/cdn/kofi3.png' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+    <a href="https://www.buymeacoffee.com/YisusFuckingChrist" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height='36' width='141'></a>
+  </div> 
+
   ---
   
   ### :hammer_and_wrench: Languages and Tools
   
   [![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,bash,c,css,docker,firebase,git,heroku,html,java,javascript,kotlin,linux,mongodb,mysql,nodejs,postgresql,python,vscode&theme=light&perline=10)](https://skillicons.dev)
-
-  <!---
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40"
-      height="40" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python"
-      alt="Python" width="40" height="40" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="Java"
-      alt="Java" width="40" height="40" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Shell Scripting"
-      alt="Shell Scripting" width="40" height="40" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
-      title="PostgreSQL" alt="PostgreSQL" width="40" height="40" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"
-      alt="MongoDB" width="40" height="40" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS"
-      width="40" height="40" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML"
-      width="40" height="40" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"
-      alt="JavaScript" width="40" height="40" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS"
-      width="40" height="40" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="Git" **alt="Git"
-      width="40" height="40" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" **alt="PHP"
-      width="40" height="40" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" title="Heroku"
-      **alt="Heroku" width="40" height="40" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" title="Docker"
-      **alt="Docker" width="40" height="40" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"
-      **alt="Jupyter" width="40" height="40" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" **alt="Linux"
-      width="40" height="40" />&nbsp;
-  </div>
-  --->
   
   ---
 
