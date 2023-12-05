@@ -39,11 +39,14 @@ https://www.sitepoint.com/github-profile-readme/
   <br>
   
   <div id="donations">
-    <a href='https://ko-fi.com/yisuschrist' target='_blank'>
-      <img height='36' src='https://storage.ko-fi.com/cdn/kofi3.png' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+    <a href="https://ko-fi.com/yisuschrist" target="_blank">
+      <img alt="Buy Me a Coffee at ko-fi.com" src="https://storage.ko-fi.com/cdn/kofi3.png" border="0" height="36" />
+    </a>
+    <a href="https://liberapay.com/YisusChrist/donate" target="_blank">
+      <img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg" height="36" />
     </a>
     <a href="https://www.buymeacoffee.com/YisusFuckingChrist" target="_blank">
-      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height='36' width='141' />
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="36"/>
     </a>
   </div> 
 
