@@ -67,6 +67,8 @@ https://www.sitepoint.com/github-profile-readme/
 
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YisusChrist&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
+  [![My GitHub Trophies](https://github-trophies.vercel.app/?username=yisuschrist&no-frame=true&theme=discord)](https://github.com/lucthienphong1120/github-trophies)
+
   ---
 
   ### 🎧 Spotify Playing
