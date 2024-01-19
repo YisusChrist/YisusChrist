@@ -93,7 +93,7 @@ https://www.sitepoint.com/github-profile-readme/
   
   <!-- https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
   <a href="https://github.com/Platane/snk">
-  <img src="https://raw.githubusercontent.com/YisusChrist/YisusChrist/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/YisusChrist/YisusChrist/main/assets/github-contribution-grid-snake.svg" alt="Snake animation" />
   </div>
   
 </div>
