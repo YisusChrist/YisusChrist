@@ -13,7 +13,7 @@ https://www.sitepoint.com/github-profile-readme/
   <img src="https://komarev.com/ghpvc/?username=YisusChrist&style=flat-square&color=blue" alt="" />
   -->
   <!-- https://github.com/journey-ad/Moe-Counter -->
-  <img src="https://count.getloli.com/get/@:yisuschrist?theme=moebooru" alt="" />
+  <img src="https://count.getloli.com/get/@:yisuschrist?theme=booru-lewd" alt="" />
   
   <br>
 
